@@ -23,6 +23,14 @@
       "TXT": [
         "v=DMARC1; p=none;"
       ]
+    },
+    "mail": {
+      "MX": [
+        {
+          "priority": 10,
+          "value": "receive-apne1.forge.rmta.net"
+        }
+      ]
     }
   },
   "country": "IN",
